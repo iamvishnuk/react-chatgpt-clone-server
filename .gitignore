@@ -1,0 +1,5 @@
+# dot env
+.env
+
+# node modules folder
+/node_modules 
